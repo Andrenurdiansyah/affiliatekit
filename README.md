@@ -42,5 +42,5 @@ lib/: Utility functions dan konfigurasi API.
 Profil Pengembang
 Dikembangkan oleh Andre Nurdiansyah (@Andrenurdiansyah).
 
-Fokus: Full Stack Development & Content Creation Automation.
+Fokus: Full Stack Development & Content Creation Automation
 

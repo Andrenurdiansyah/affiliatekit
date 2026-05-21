@@ -1,9 +1,9 @@
 export default function sitemap() {
   return [
     {
-      url: 'https://affiliatekit.ai', // Ganti dengan domain lu
+      url: 'https://affiliatekit.my.id',
       lastModified: new Date(),
-      changeFrequency: 'daily',
+      changefreq: 'daily',
       priority: 1,
     },
   ]
